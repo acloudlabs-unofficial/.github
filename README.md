@@ -7,9 +7,9 @@
 
 ## 简介 / Introduction
 
-`acloudlabs-unofficial` 是一个非官方的阿里云实验室项目集合，旨在学习、研究和探索阿里云相关技术。所有内容仅供学习参考，不代表阿里云官方立场或产品。
+`acloudlabs-unofficial` 是一个非官方的阿里云实验室项目集合，旨在学习、研究和探索阿里云相关技术。所有内容仅供学习参考, 不代表阿里云官方立场或产品。
 
-`acloudlabs-unofficial` is an unofficial collection of Alibaba Cloud lab projects aimed at learning, research, and exploring Alibaba Cloud–related technologies. All content is for educational reference only and does not represent the official position or products of Alibaba Cloud.
+`acloudlabs-unofficial` is an unofficial collection of Alibaba Cloud lab projects aimed at learning, research, and exploring Alibaba Cloud-related technologies. All content is for educational reference only and does not represent the official position or products of Alibaba Cloud.
 
 ## 说明 / Notes
 
